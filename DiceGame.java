@@ -19,6 +19,9 @@ public class DiceGame {
      */
     public static void main(String[] args) {
 
+
+        //bzzz
+
         Random dice = new Random();
        
         Player player = new Player();
